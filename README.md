@@ -22,6 +22,11 @@
 2. Image Segmentation in each detected image boxes > Get mask
 3. Remove background > Result
 
+## You can try this model.
+
+*   [https://colab.research.google.com/drive/1rDcVczczKy8IbUnfA4aAVrM_AKSwuJl7](https://colab.research.google.com/drive/1rDcVczczKy8IbUnfA4aAVrM_AKSwuJl7)
+*   [https://youtu.be/C9AffviLrxo](https://youtu.be/C9AffviLrxo)
+
 ## References
 
 *   [https://www.tensorflow.org/?hl=zh-tw](https://www.tensorflow.org/?hl=zh-tw)
