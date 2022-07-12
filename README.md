@@ -24,8 +24,8 @@
 
 ## You can try this model.
 
-*   [https://colab.research.google.com/drive/1rDcVczczKy8IbUnfA4aAVrM_AKSwuJl7](https://colab.research.google.com/drive/1rDcVczczKy8IbUnfA4aAVrM_AKSwuJl7)
 *   [https://youtu.be/C9AffviLrxo](https://youtu.be/C9AffviLrxo)
+*   [https://colab.research.google.com/drive/1rDcVczczKy8IbUnfA4aAVrM_AKSwuJl7](https://colab.research.google.com/drive/1rDcVczczKy8IbUnfA4aAVrM_AKSwuJl7)
 
 ## References
 
