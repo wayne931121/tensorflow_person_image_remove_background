@@ -21,3 +21,9 @@
 1. Object Detection > Get boxes
 2. Image Segmentation in each detected image boxes > Get mask
 3. Remove background > Result
+
+## References
+
+*   [https://www.tensorflow.org/?hl=zh-tw](https://www.tensorflow.org/?hl=zh-tw)
+*   [https://github.com/tensorflow/models](https://github.com/tensorflow/models)
+*   [https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb](https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb)
