@@ -1,6 +1,6 @@
 # tensorflow_person_image_remove_background
 
-*   [model weights url](https://drive.google.com/drive/folders/1wU1Np8thAQ5qBpwmUTCcIWpS9772Nror?usp=sharing)
+*   [Model weights url](https://drive.google.com/drive/folders/1wU1Np8thAQ5qBpwmUTCcIWpS9772Nror?usp=sharing)
 *   Object Detection: SSD ResNet50 V1 FPN 640x640 (RetinaNet50)
 *   Image Segmentation: Unet
 
