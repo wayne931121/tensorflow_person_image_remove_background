@@ -8,7 +8,7 @@
 
 *   Remove person images or videos background
 *   此模組適合正面且單人的圖片
-*   [Google translate] This model is suitable for frontal and single-player pictures.
+*   This model is suitable for frontal and single-person images.
 
 ## Using
 
