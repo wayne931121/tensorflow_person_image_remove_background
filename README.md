@@ -6,4 +6,4 @@
 
 1. Object Detection > Get boxes
 2. Image Segmentation in each detected image boxes > Get mask
-3. Remove background
+3. Remove background > Result
